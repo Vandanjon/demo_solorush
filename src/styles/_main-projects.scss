@@ -1,0 +1,16 @@
+.projects-container {
+  min-height: 80vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: cornflowerblue;
+
+  article {
+    width: 80%;
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: space-around;
+  }
+}
